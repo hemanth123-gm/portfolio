@@ -1,0 +1,33 @@
+{
+  "name": "K Naga Hemanth Reddy",
+  "role": "Cyber Security",
+  "roles": ["SOC Analyst Trainee", "Threat Hunter", "Network Defender", "Incident Responder"],
+  "summary": "B.Tech Computer Science student specializing in Cybersecurity and Networking. Hands-on with Wireshark and Nmap for packet analysis, threat identification and network diagnostics. Currently growing in SIEM, Splunk and enterprise network security to deliver value as a Security Analyst Trainee or SOC Intern.",
+  "contact": { "email": "knagahemanthreddy@gmail.com", "phone": "9154244689",
+    "linkedin": "https://www.linkedin.com/in/k-naga-hemanth-reddy-0",
+    "github": "https://github.com/hemanthreddy111",
+    "tryhackme": "https://tryhackme.com/p/knagahemanthreddy" },
+  "projects": [
+    { "name": "SOC-X-AI", "tag": "AI + SOC", "desc": "AI-assisted Security Operations Center project that helps analysts triage alerts, analyse logs and speed up incident response.", "stack": ["Python", "SIEM", "AI/ML", "Log Analysis"], "link": "https://github.com/hemanthreddy111" },
+    { "name": "PhishGuard", "tag": "Phishing Defense", "desc": "Phishing detection tool that inspects suspicious links and messages and flags them before users get tricked.", "stack": ["Python", "Threat Detection", "URL Analysis"], "link": "https://github.com/hemanthreddy111" },
+    { "name": "MaxSave", "tag": "Application", "desc": "MaxSave - an application built by Hemanth. Replace this text with your own description.", "stack": ["Full Stack", "Git", "GitHub"], "link": "https://github.com/hemanthreddy111" }
+  ],
+  "labs": [
+    { "name": "Autonomous CI/CD Agent", "desc": "Monitors pipelines, detects build and deployment failures, analyses errors and automates workflows using Git, Jenkins, Docker and Kubernetes." },
+    { "name": "Network Monitoring & Threat Detection", "desc": "Network scanning and vulnerability discovery with Nmap; live traffic capture with Wireshark to isolate anomalous behaviour." }
+  ],
+  "skills": {
+    "Cyber Security": ["SOC", "Threat Detection", "Incident Response", "Vulnerability Assessment", "Log Analysis", "SIEM", "IDS/IPS", "Risk Assessment", "MITRE ATT&CK", "NIST 800-61", "Cyber Kill Chain"],
+    "Networking": ["TCP/IP", "OSI", "DNS", "DHCP", "HTTP/S", "SSH", "SMTP", "ARP", "Subnetting", "NAT", "VPN", "Firewalls"],
+    "Tools": ["Splunk", "Wireshark", "Nmap", "Kali Linux", "Burp Suite", "ServiceNow", "Active Directory"],
+    "Dev & Cloud": ["Python", "Java", "Linux", "Windows", "Docker", "Git", "Google Cloud", "CI/CD"]
+  },
+  "education": [
+    { "school": "Kallam Haranadha Reddy Institute of Technology", "what": "B.Tech - Computer Science & Engineering", "meta": "CGPA 7.60 | 2023-2027" },
+    { "school": "NRI Junior College", "what": "Intermediate", "meta": "73% | 2021-2023" },
+    { "school": "Sri Chaitanya School", "what": "SSC", "meta": "99.83% | 2021" }
+  ],
+  "soft": ["Clear Communication", "Continuous Learning", "Calm under Pressure", "Problem-Solving"],
+  "languages": ["English", "Telugu", "Hindi"],
+  "hobbies": ["Calisthenics", "Yoga", "Reading spiritual books"]
+}
